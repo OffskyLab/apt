@@ -1,0 +1,32 @@
+Origin: OffskyLab
+Label: Orbital
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: APT repository for Orbital
+Date: Wed, 08 Apr 2026 18:26:23 +0000
+MD5Sum:
+ 614f21f2c51ea5200c872a3f5861950b              186 Release
+ d9daee99a0eb12e0d5df97b022dba536              432 main/binary-amd64/Packages
+ 61d519e527ac299db1db984da1abba47              355 main/binary-amd64/Packages.gz
+ 2e348064797164947e1a1323b242e96b              432 main/binary-arm64/Packages
+ 9dbb3964174bd6ceebfb66115404c9a2              354 main/binary-arm64/Packages.gz
+SHA1:
+ 9b21af1febb61b5555b3e3c314fd943f4220b873              186 Release
+ d1e9645763d61b6c3a65f260fc230884d6e465ce              432 main/binary-amd64/Packages
+ 402ddb5fa01600876c155e70794ef55f35d60a34              355 main/binary-amd64/Packages.gz
+ 25147ae88e61b4acfc12dff454a520461dd0be65              432 main/binary-arm64/Packages
+ 120ec898e5c19a90a0f9de6578245cd0d754aa5f              354 main/binary-arm64/Packages.gz
+SHA256:
+ 896c6ed2e4cb962a7e1a51354cb045fa8501cc67c3c24ad867b65487e473d194              186 Release
+ 2ae8d3c33b81afd16e0fc7dedd5c6176a88ba6d391e85f199827d0b4037559ac              432 main/binary-amd64/Packages
+ cff826f5a9fcb39e90b5b8233e21c23ac3763c61cb5b978684395807a8ac9f66              355 main/binary-amd64/Packages.gz
+ 8ca4fe0603021eefe3004a1105d606df86f00aa5613bfe769163a5cc182f84d6              432 main/binary-arm64/Packages
+ d7942fcbcc4509092a7e644327319b2a8db2019904d66f43e6e6ab597e49174e              354 main/binary-arm64/Packages.gz
+SHA512:
+ 1c879bb68c4fd1f13fe56082dc0d56b98879a534f5de43b657dad1e1deeb4a88a3d24eb0f93d0dc6d587636a8b51949510fe8e3266ed6ff77792c323f795df2d              186 Release
+ 7a8ae3c04b9d1b37b3c36f3515fb2d3ceed038ea5f5852adfba7a6359d8d496c66ef3322fb83e7135a30cb674b2dcbd90613595518e4898018419e4660fe42fe              432 main/binary-amd64/Packages
+ 542efd8ab63e59e7e87401c925f52940ffdaf89b5a13cdbc4b59187532996e4193df62383b6d689f3e14fe8217145f7477d62ee2e7e04b2de432a897738a65fe              355 main/binary-amd64/Packages.gz
+ ac14bfbbd5ec7cade425cf047b8e41bf998b27566f22c9b8539f0493dab75e971a5631edd49b1eac3028217099f7368fec6c32b72a70951ced69009501e47106              432 main/binary-arm64/Packages
+ 2d5092bd2b836a5d220f848b4c79afb4705099b527addce9ac223394ff4557a655953f065e3a2f436a160acecad991acc42e67ae9856404266a352b8494a76c7              354 main/binary-arm64/Packages.gz
