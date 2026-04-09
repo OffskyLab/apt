@@ -10,3 +10,14 @@ SHA1: e24c16900ac9de9f1efac2ff9aeb9d8a2c059438
 SHA256: 8f8b26e63ff292e487b2cd9bbcc3571f05e43b7e9521a788cc720ba25d331518
 Description: Orbital — AI CLI environment manager for Claude Code, Codex, and Gemini CLI
 
+Package: orbital-sync
+Version: 1.0.0
+Architecture: arm64
+Maintainer: OffskyLab <offskylab@users.noreply.github.com>
+Filename: pool/main/o/orbital-sync/orbital-sync_1.0.0_arm64.deb
+Size: 30040680
+MD5sum: 828a595e43da4a1740dafe8edc444d12
+SHA1: 8b7c2ae0a87abdbce544676726e8e6b8cd66596a
+SHA256: 6a96230d215a6079eb6b27e4ebdb3bb2630917e91a91906c50d8267b0271c6d5
+Description: P2P real-time sync daemon for Orbital
+
