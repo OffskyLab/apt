@@ -1,13 +1,13 @@
 Package: orbital
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
 Maintainer: OffskyLab <offskylab@users.noreply.github.com>
 Depends: orbital-sync
-Filename: pool/main/o/orbital/orbital_1.0.1_amd64.deb
-Size: 19171368
-MD5sum: 2ac83e083b24306545680fcff6836b5a
-SHA1: 6661ec860d0b6d3d79931a2b6b75d1fe10071605
-SHA256: 8db098212c704adce99abd880baf8ac3d80c0ddc40d462b660d73c85cfaa7b10
+Filename: pool/main/o/orbital/orbital_1.0.2_amd64.deb
+Size: 19171084
+MD5sum: 2d23c61b6d9461861562dee294b55deb
+SHA1: 06277263d137c57f0f939d23cd274d160f419b60
+SHA256: 50299fe0c75a001c23d7cca2180f4a01f481790fd516dba8a0c155637be787db
 Description: Orbital — AI CLI environment manager for Claude Code, Codex, and Gemini CLI
 
 Package: orbital-sync
