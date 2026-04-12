@@ -21,3 +21,14 @@ SHA1: 8b7c2ae0a87abdbce544676726e8e6b8cd66596a
 SHA256: 6a96230d215a6079eb6b27e4ebdb3bb2630917e91a91906c50d8267b0271c6d5
 Description: P2P real-time sync daemon for Orbital
 
+Package: orrery-sync
+Version: 2.0.0
+Architecture: arm64
+Maintainer: OffskyLab <offskylab@users.noreply.github.com>
+Filename: pool/main/o/orrery-sync/orrery-sync_2.0.0_arm64.deb
+Size: 29852416
+MD5sum: eac96fbc9b5e3d3cba9115689761e419
+SHA1: 1da6467d4a1d0daf49d3e383674a5fefd6e3be6e
+SHA256: 269358b5d0c07bca48145f570ae1ce8ecd01b4fe8b05c40b2a70ef84b5927b51
+Description: P2P real-time sync daemon for Orrery
+
