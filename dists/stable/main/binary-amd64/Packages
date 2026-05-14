@@ -30,10 +30,10 @@ Conflicts: orbital
 Replaces: orbital
 Provides: orbital
 Filename: pool/main/o/orrery/orrery_2.7.0_amd64.deb
-Size: 19995232
-MD5sum: 1acb50815504fcd5be85e2a80ab5fb84
-SHA1: d107743fb5dccea7a456e2de32595a007d199b54
-SHA256: c7b14dd3a57ebfb936939f76cad9185efd137f9ab8e2a933781562f082e32f68
+Size: 20026230
+MD5sum: ea32e72069e970e864c089077625a40b
+SHA1: 1f4d14f48cd1cb108040bc8e3ae821a155f7ef9f
+SHA256: ef78c5d9a9ec0a64809cb56ec264eb69fd03ada971b5e471f4b4b1db0094c32b
 Description: Orrery — AI CLI environment manager for Claude Code, Codex, and Gemini CLI
 
 Package: orrery-sync
