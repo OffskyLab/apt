@@ -22,18 +22,18 @@ SHA256: 6a96230d215a6079eb6b27e4ebdb3bb2630917e91a91906c50d8267b0271c6d5
 Description: P2P real-time sync daemon for Orbital
 
 Package: orrery
-Version: 3.1.1
+Version: 3.1.2
 Architecture: arm64
 Maintainer: OffskyLab <offskylab@users.noreply.github.com>
 Depends: orrery-sync
 Conflicts: orbital
 Replaces: orbital
 Provides: orbital
-Filename: pool/main/o/orrery/orrery_3.1.1_arm64.deb
-Size: 19987910
-MD5sum: e0a033594f7193fffaac52864ca8a09f
-SHA1: dc97ed6588a9d6306a2bfd5c79d9547c66cf79bd
-SHA256: 58af2f4b91d175e9e6a1db9b6f1884fad162391ed3af4d445350454068e15bc3
+Filename: pool/main/o/orrery/orrery_3.1.2_arm64.deb
+Size: 20037022
+MD5sum: efaf2ea43472c5423460ef9b0162f70f
+SHA1: 206fe04f1055dd28ef20f7d88e1c2472c6cb28ea
+SHA256: 797b56c97750cdbe3d7c69c9e65230442fb19212f938ba3f15ac354eb1787cda
 Description: Orrery — AI CLI environment manager for Claude Code, Codex, and Gemini CLI
 
 Package: orrery-sync
